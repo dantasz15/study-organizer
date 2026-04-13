@@ -1,0 +1,27 @@
+# Dependências
+node_modules/
+package-lock.json
+yarn.lock
+
+# Testes e cobertura
+coverage/
+.nyc_output/
+
+# Dados locais
+data/
+*.log
+
+# Ambiente
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Build
+dist/
+build/
